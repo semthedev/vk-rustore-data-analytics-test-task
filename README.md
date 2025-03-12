@@ -1,2 +1,2 @@
-# vk-rustore-data-analytics-test-task
-Vk Rustore intern data analytics test task
+# Тестовое задание для стажёра Аналитика Данных команды RuStore
+Vk RuStore intern data analytics test task
