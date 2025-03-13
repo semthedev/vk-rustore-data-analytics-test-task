@@ -3,6 +3,6 @@ Vk RuStore intern data analytics test task
 
 *Выполнил*: **Хамдамов С.**
 
-Задание можно найти по [ссылке](https://vk.com/@vkteam-testovoe-zadanie-komandy-produktovoi-analitiki).
+Описание заданий можно найти в [pdf-файле](./tex/description.pdf).
 
-Состоит из трёх частей: [A](./A), [B](./B), [C](C). Тексты с описанием заданий в 
+Состоит из трёх частей: [A](./A), [B](./B), [C](C).
