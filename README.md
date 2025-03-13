@@ -5,4 +5,4 @@ Vk RuStore intern data analytics test task
 
 Описание заданий можно найти в [pdf-файле](./tex/description.pdf).
 
-Состоит из трёх частей: [1](./1.sql), [B](./B), [C](C).
+Состоит из трёх частей: [1](./1.sql), [2](./2.ipynb), [3](./3.sql).
